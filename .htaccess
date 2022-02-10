@@ -1,0 +1,3 @@
+RewriteRule ^testflip$ testflip.php
+RewriteRule ^send$ send.php
+php_value display_errors 1
